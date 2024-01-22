@@ -4,7 +4,7 @@ body {
   zoom: 75%;
 }
 .dv1 {
-  background-image: url("image.png");
+  background-image: url('image.png');
 }
 .m1 {
   font-family: 'Roboto Condensed';
