@@ -4,7 +4,7 @@ body {
   zoom: 75%;
 }
 .dv1 {
-  background-image: url("file:///C:/Users/USER/Desktop/My%20site%202/image.png");
+  background-image: url("image.png");
 }
 .m1 {
   font-family: 'Roboto Condensed';
@@ -67,7 +67,7 @@ body {
 .dv3 {
   width: 2011px;
   height: 483px;
-  background-image: url("file:///C:/Users/USER/Desktop/My%20site%202/image-1.png");
+  background-image: url("image-1.png");
   position: relative;
   top: -92px;
 }
@@ -199,7 +199,7 @@ body {
 .dv6 {
   width: 2011px;
   height: 176px;
-  background-image: url("file:///C:/Users/USER/Downloads/Rectangle%20(1).png");
+  background-image: url("Rectangle (1).png");
 }
 .wtf {
   font-family: "Roboto";
@@ -215,13 +215,13 @@ body {
   padding-right: 735px;
 }
 .hd1 {
-  background-image: url("file:///C:/Users/USER/Downloads/Rectangle%20(2).png");
+  background-image: url("Rectangle (2).png");
   width: 1506px;
   height: 84px;
   padding-left: 504px;
   padding-top: 20px;
   position: absolute;
-  background-image:url("file:///C:/Users/USER/Desktop/My%20site%202/ezgif.com-gif-maker.gif");
+  background-image:url("ezgif.com-gif-maker.gif");
   background-size:2000px,200px;
 }
 .wote {
